@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(195, 195, 195);
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    color: rgb(0, 46, 139);
+    font-size: 90%;
+}
+
+.header {
+    background-color: white;
+    color: rgb(14, 0, 139);
+    width: 50%;
+}
+
+.table-background {
+    background-color: rgb(234, 233, 233);
+    width: 50%;
+}
+
+.date-span {
+    color: grey;
+    font-size: 75%;
+    font-weight: 400;
+}
+
+.radio-input {
+    font-size: 80%;
+    color: rgb(25, 0, 139)
+}
+
+.comments {
+    height: 150px;
+    width: 500px;
+}
+
+.submit-butt {
+    height: 30px;
+    width: 100px;
+    background-color: rgb(74, 74, 74);
+    color: white;
+    border-radius: 10%;
+}
